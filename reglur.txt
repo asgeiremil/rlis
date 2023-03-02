@@ -1,0 +1,318 @@
+ROCKET LEAGUE ÍSLAND 
+REGLUR 
+
+Inngangur og inngönguskilyrði
+Inngangur
+Þessi reglubók gildir fyrir alla þátttakendur í Rocket League mótum og deildum á vegum RLÍS, bæði fyrir lið og leikmenn. Þessar reglur eru gerðar til að tryggja gott og sanngjarnt keppnisumhverfi. 
+Inngönguskilyrði
+Til þess að mega taka þátt þarf að uppfylla eftirfarandi skilyrði:
+
+
+Leikmaður þarf að hafa náð 13 ára aldri. Sé leikmaður 12 ára eða yngri getur hann tekið þátt hafi hann formlegt leyfi frá foreldri eða forráðarmanni.
+Meirihluti leikmanna í liði verða að vera með íslenskan ríkisborgararétt eða lögheimili á íslandi. 
+Þátttakendur í úrvalsdeildinni þurfa að skrifa undir samning sem tryggir liðunum þátttökurétt fyrir hvert tímabil. (Sjá 7.1)
+Framfylgni Reglna
+RLÍS mun sjá til þess að reglum sé framfylgt og aganefnd RLÍS mun sjá um að ákvarða refsingar skuli þátttakendur brjóta reglur. Meira um það í köflum 8 og 9. 
+Keppendur verða að fylgja reglum sem og ákvörðunum stjórnenda deildarinnar og geta ákvarðanir þeirra verið frábrugðnar reglum ef talin er þörf á og meta stjórnendur það hverju sinni.
+
+Skilgreiningar & hugtök
+Skilgreiningar á hugtökum
+Forfeit: Þegar leikur er ekki spilaður, þegar lið gefur upp sigur. Þegar lið gefur viðureign fær andstæðingurinn alla leiki skráða sem sigur.
+Einföld útsláttarkeppni: Er keppni þar sem lið dettur úr keppni tapi það einni viðureign.
+Tvöföld útsláttarkeppni: Er keppni þar sem lið dettur úr keppni tapi það tveimur viðureignum. Í því formatti er efra og neðra leikjatré (e. bracket), þar sem lið sem tapa leik fara niður í neðra leikjatré. Sigurvegari efra leikjatrés mætir sigurvegara þess neðra í lokaúrslitum.
+Round robin: Allir spila á móti öllum að minnsta kosti einu sinni. Ef að það er tvöfalt round robin þá mætast öll lið tvisvar.
+Best af X: Fyrir hverja viðureign er gefið upp “best af x”. Þar sem x er hámark fjölda leikja sem verða spilaðir. Það lið sem situr uppi með fleiri sigra vinnur viðureignina.
+Félagaskipti:  Þegar leikmanni er skipt út fyrir annan telst það sem félagaskipti. Þegar lið fær inn nýjan meðlim án þess að skipta öðrum út telst það sem félagaskipti. Þegar leikmaður fer úr liði, og enginn kemur inn fyrir hann flokkast það ekki sem félagaskipti.
+Félagaskiptagluggi:  Tímabil þar sem félagaskipti eru leyfð.
+MMR: Match Making Rating - Stig sem allir Rocket League leikmenn öðlast í competitive spilalistum og segja til um styrkleika leikmanns.
+Replay: Skjal sem inniheldur endurspilun leiks sem Rocket League skapar þegar notandi velur save replay eftir leik.
+Ballchasing: Ballchasing er vefsíða sem hýsir Replay sem gerir auðvelt að flokka og deila þeim. Hlekkur: https://ballchasing.com/
+Lið:  Lið samanstendur af a.m.k. 3 leikmönnum. Lið geta verið í eigu leikmanna eða fyrirtækis/félags. Liðum er leyfilegt að vera með einn varamann.
+Smurf aðgangur: Aðgangur sem leikmaður notar til að spila í lægra getustigi leiksins en leikmaðurinn tilheyrir.
+
+
+Uppsetning á deildum og mótum
+Úrvalsdeild
+Deildarkeppni
+Deildarkeppni úrvalsdeildar byrjar 7. mars og verður spilað á þriðjudögum og fimmtudögum klukkan 19:30.
+Keppt verður í tvöföldu round robin.
+Allar viðureignir í deildarkeppni verða best af 5.
+Fyrir hverja sigraða viðureign fær lið tvö stig.
+Ef tvö eða fleiri lið enda með sömu heildarstig í enda deildarinnar verður litið á mismun sigraðra (+) og tapaðra (-) leikja í viðureignum til að ákvarða hvort liðið endar ofar. Ef mismunurinn er sá sami verður farið eftir innbyrðis viðureignum þeirra liða sem standa jöfn. Ef að lið eru enn jöfn eftir þessar aðgerðir verður bráðabani, round robin best af 1. 
+Þau lið sem lenda í 1. - 6. sæti fara í úrslitakeppni.
+Það lið sem lendir í 7. sæti fer í umspilskeppni úrvalsdeildar.
+Það lið sem lendir í 8. sæti fellur sjálfkrafa niður í fyrstu deild.
+
+Úrslitakeppni
+Úrslitakeppni fer fram dagana 11. til 14. maí.
+Keppt verður í tvöfaldri útsláttarkeppni þar sem sigurvegarinn er krýndur Íslandsmeistari. Lið eru staðsett í úrslitakeppninni eftir frammistöðu þeirra í deildarkeppninni. 
+Liðin sem lenda í þriðja og sjötta sæti, og liðin sem lenda í fjórða og fimmta sæti í deildarkeppninni mætast í fyrstu umferð úrslitakeppninnar. Liðin sem lenda í fyrsta og öðru sæti í deildarkeppninni fara beint áfram í aðra umferð þar sem þau mæta sigurvegurum leikjanna úr fyrstu umferð.
+Allar viðureignir verða best af 7
+Umspilskeppni úrvalsdeildar
+Umspilskeppni úrvalsdeildar fer fram sunnudaginn 30. apríl.
+Sigurvegari umspilskeppninnar fær sæti í úrvalsdeild á næsta tímabili.
+Annað til fimmta sæti í fyrstu deild mætast í einfaldri útsláttarkeppni, og er þeim raðað í hana eftir niðurstöðu deildarkeppninnar. Sjöunda sæti deildarkeppni úrvalsdeildar mætir sigurvegara útsláttarkeppninnar. Sigurvegari þeirrar viðureignar sigrar umspilskeppnina. 
+Allar viðureignir í umspilskeppninni verða best af 7.
+
+
+
+Fyrsta deild
+Deildarkeppni
+Deildarkeppni fyrstu deildar byrjar sunnudaginn 26. febrúar og verður spilað á sunnudögum klukkan 20:00 og 21:00.
+Keppt verður í tvöföldu round robin.
+Allar viðureignir í deildarkeppni verða best af 5.
+Fyrir hverja sigraða viðureign fær lið tvö stig.
+Ef tvö eða fleiri lið enda með sömu heildarstig í enda deildarinnar verður litið á mismun sigraðra (+) og tapaðra (-) leikja í viðureignum til að ákvarða hvort liðið endar ofar. Ef mismunurinn er sá sami verður farið eftir innbyrðis viðureignum þeirra liða sem standa jöfn. Ef að lið eru enn jöfn eftir þessar aðgerðir verður bráðabani, round robin best af 1. 
+Það lið sem lendir í 1. sæti í deildarkeppni fer beint upp í úrvalsdeild.
+Þau lið sem lenda í 2. - 5. sæti fara í umspilskeppni úrvalsdeildar
+Það lið sem lendir í 9. sæti fer í umspilskeppni fyrstu deildar.
+Það lið sem lendir í 10. sæti fellur sjálfkrafa niður í aðra deild.
+
+
+Umspilskeppni fyrstu deildar
+Umspilskeppni fyrstu deildar fyrir sæti í fyrstu deild fer fram laugardaginn 30. apríl.
+Sigurvegari umspilskeppninnar fær sæti í fyrstu deild á næsta tímabili.
+Fjögur lið úr annarri deild mætast í einfaldri útsláttarkeppni, og er þeim raðað í hana eftir niðurstöðu deildarkeppninnar. Níunda sæti deildarkeppni fyrstu deildar mætir sigurvegara útsláttarkeppninnar. Sigurvegari þeirrar viðureignar sigrar umspilskeppnina. 
+Allar viðureignir í umspilskeppninni verða best af 7.
+Sjá 3.1.3 fyrir umspilskeppni úrvalsdeildar.
+Önnur deild
+Deildarkeppni
+Deildarkeppni annarrar deildar byrjar sunnudaginn 12. mars og verður spilað á fimmtudögum klukkan 20:00 og 21:00.
+Keppt verður í tvöföldu round robin. Fjöldi riðla fer eftir fjölda þátttakenda.
+Allar viðureignir í deildarkeppni verða best af 5.
+Fyrir hverja sigraða viðureign fær lið tvö stig.
+Ef tvö eða fleiri lið enda með sömu heildarstig í enda deildarinnar verður litið á mismun sigraðra (+) og tapaðra (-) leikja í viðureignum til að ákvarða hvort liðið endar ofar. Ef mismunurinn er sá sami verður farið eftir innbyrðis viðureignum þeirra liða sem standa jöfn. Ef að lið eru enn jöfn eftir þessar aðgerðir verður bráðabani, round robin best af 1. 
+Efstu liðin í deildarkeppninni fara í úrslitakeppnina. Fjöldi liða sem fer í úrslitakeppni fer eftir fjölda þátttakenda.
+Það lið sem sigrar aðra deild fer beint upp í fyrstu deild.
+Fjögur lið fara í umspilskeppni fyrstu deildar.
+Sjá 3.2.2 fyrir umspilskeppni fyrstu deildar.
+Niðurröðun í deildir
+Miðað er við gengi á síðasta tímabili þegar ákvarðað er hvaða deild lið spilar í. 
+Ef sæti losna í deildum er mótastjórn RLÍS heimilt að fylla í auð sæti með því að halda undankeppnir eða hleypa inn næsta liði úr næstu deild fyrir neðan.
+Mót
+Snið móta á vegum RLÍS er að sjá í lýsingu hvers móts fyrir sig.
+Niðurröðun í mót
+Notast er við eina af þrem mismunandi aðferðum við niðurröðun liða í mótum og deildum. Aðferðirnar eru eftirfarandi:
+Liðum raðað eftir styrkleika þar sem notast er við MMR.
+Liðum er raðað eftir gengi fyrri móta og deilda.
+Liðum er raðað af handahófi.
+Ef að notuð er niðurröðun eftir styrkleika mætir sterkasta liðið veikasta liðinu, næst sterkasta lið mætir næst veikasta liðinu o.s.frv.
+Mótastjórn ákveður niðurröðun móta að hverju sinni. Aðferð niðurröðunar er alltaf tilkynnt fyrir mót.
+Leikreglur
+Uppsetning leikja
+Allir leikir eiga að vera spilaðir á evrópskum netþjóni.
+Leikja snið: Soccar, nema annað sé tekið fram.
+Völlur: Sjá leyfilega leikvanga í kafla 4.3.
+Sjálfgefnar stillingar (default).
+Liðsnöfn verða að vera rétt í leiknum.
+Búnaður
+Öll notkun staðlaðra fjarstýringa, músa og lyklaborða er leyfileg. Macro functions (t.d. turbo buttons) eru stranglega bönnuð.  
+Allur búnaður sem notaður er á LAN-viðburðum þarf að vera samþykktur af mótastjórn.
+ Leyfilegir leikvangar
+Í leikjum utan streymis eru allir Soccar leikvangar leyfilegir með samþykki beggja liða. Skuli lið ekki komast að samkomulagi skal spilað á Mannfield (Night).
+Á streymi ákveður útsendingarstjóri leikvang til að spila á af eftirfarandi lista:
+Beckwith Park (Midnight)
+Champions Field
+DFH Stadium
+Mannfield
+Mannfield (Night)
+Urban Central (Night)
+Utopia Coliseum (Dusk)
+Forbidden Temple
+Neo Tokyo
+Sovereign Heights
+Skiptingar í viðureignum
+Skipta má inn varamanni í miðri viðureign
+Ekki er leyfilegt að skipta inn leikmanni í miðjum leik.
+Hvert lið má aðeins framkvæma eina skiptingu í hverri viðureign.
+Áhorfendur
+Engir áhorfendur eru leyfðir inn í leiknum, að undanskyldum útsendingastjóra og lýsendum. Ef að skipta skal varamanni inn á milli leikja þá er það á ábyrgð liðs hans að bjóða honum í leikinn. Leikmanni sem skipt er út ber skylt að fara úr leik áður en næsti hefst.
+Ef einhver ætlar að streama neðri deildar leikjum þurfa áhorfendur innan leiksins (e. ingame) að vera inni á rás á RLÍS discordinu sýnilegir báðum liðum. Athugið að það þarf leyfi til að streyma leikjum í deildum RLÍS. (Sjá 11.2.)
+Stundvísi
+Leikir hefjast á þeim tíma sem þeir eru skráðir á, mótastjórn áskilur sér rétt til að breyta tímasetningum leikja með fyrirvara. 
+Leiktímar leikja í útsendingu gætu breyst með litlum fyrirvara vegna annarra leikja. Mótastjórn sér til þess að halda liðum upplýstum.
+Leikmenn eiga að mæta í party fimm mínútum fyrir áætlaðan leiktíma. Samskiptaaðilar liða eiga að vera móttækilegir tíu mínútum fyrir áætlaðan leiktíma.
+Ef að allir leikmenn liðs eru ekki komnir tíu mínútum eftir áætlaðan leiktíma fær það sjálfkrafa skráð á sig tap fyrir viðureignina. Aganefnd mun skoða öll slík tilfelli.
+Ef að leikmaður aftengist í miðjum leik skal sá leikur kláraður.
+Ef lið er ófullmannað þegar a.m.k einn leikur er búinn og er það enn þegar næsti leikur á að byrja hefur liðið fimm mínútur til að fullmanna liðið. Sé liðið ekki fullmannað eftir þessar fimm mínútur skráist sá leikur sem tapaður. Ef þetta gerist tvo leiki í viðureign þá gefur liðið sem ekki er fullmannað viðureignina sjálfkrafa.
+Sjái lið sér ekki fært til að spila viðureign á áætluðum tíma á streymi RLÍS gefst þeim færi á að skipta um leiktíma við aðra viðureign innan sama streymis. Umsóknir um slík skipti þurfa að berast mótastjórn a.m.k. sólarhring fyrir áætlaðan leiktíma og þurfa að vera samþykkt af mótastjórn sem og öllum samskiptaaðilum liða sem eiga hlutdeild.
+Ef að lið vill breyta leiktíma þurfa þær breytingar að vera samþykktar af báðum liðum og mótastjórn. Ef að annað liðið eða mótastjórn samþykkir ekki að breyta leiktíma mun leikurinn fara fram á upprunalegum leiktíma.
+
+
+Leikhlé 
+Fyrir allar viðureignir deilda RLÍS sem eru sýndar á streymi RLÍS þá býðst liðum að óska eftir 2 mínútna leikhlé á milli leikja. 
+Kalla þarf eftir leikhléi strax og leikur klárast.
+Hvert lið má taka eitt leikhlé í viðureign.
+Að 2 mínútum loknum byrjar útsendingarstjóri leikinn að nýju.
+Mótastjórn getur kallað til tæknilegs leikhlés. Lengd þess getur varað eftir atvikum.
+
+
+
+
+Skráning á niðurstöðum 
+Sigurlið skráir niðurstöðu viðureignar á Toornament. 
+Sigurlið í leikjum deildarkeppna RLÍS þurfa að senda inn replay af  öllum leikjum sigraðrar viðureignar, annaðhvort replay files beint úr leiknum eða senda inn link af Ballchasing í sérstaka rás á Discord (upplýsingar í rásum deildanna).
+Replay af leiknum þarf að skila sér í tileinkaða Discord rás ekki seinna en 24 tímum eftir að viðureign klárast. 
+Lið sem af tæknilegum ástæðum geta ekki sett inn replay files setja inn skjáskot af niðurstöðum allra leikja í viðureign á Toornament við skráningu niðurstöðu.
+Samskipti 
+Samskiptaaðili sér um öll formleg samskipti fyrir hönd liðsins.
+Samskipti milli liða sem varða deildina fara fram á Discord rás þeirrar deildar sem við á.
+Breytingar á leiktímum þurfa að koma fram á Discord rás viðeigandi deildar og allir samskiptaaðilar sem að koma þurfa að samþykkja þar. Allar breytingar þurfa að vera samþykktar af mótastjórn.
+Lið skráir sig úr deild
+Lið sem skrá sig úr deildum RLÍS eftir að þær eru hafnar missa þátttökurétt á næsta tímabili. 
+Í því tilfelli sem leikmenn eiga liðið, þá missa allir leikmenn liðsins þátttökurétt á næsta tímabili, nema leikmenn geti sýnt fram á að afskráning liðs sé vegna vanefnda leikmanns eða leikmanna þá færist refsingin og leikbann á þá leikmenn.
+Í því tilfelli sem félag/fyrirtæki á liðið verður hvert atvik tekið fyrir sig af mótastjórn. Hafi mótastjórn ekki næg gögn til að komast að niðurstöðu missir félagið/fyrirtækið sætið ásamt því að leikmenn fá keppnisbann á komandi tímabili.
+Skrái lið sig úr deild meðan deildarkeppni stendur yfir skráist 3-0 tap á allar spilaðar viðureignir sem og þær viðureignir sem eftir eru.
+Skrái lið sig úr deild eftir að úrslitakeppni er hafin skráist síðasta spilaða viðureign sem tap. Mótherji liðsins í þeirri viðureign fer áfram í leikjatré í stað sigurliðsins.
+Skrái lið sig úr deild eftir að deildarkeppni lýkur og áður en úrslitakeppni hefst fær mótherji liðsins í úrslitakeppni sjálfkrafa sigur í viðureign sem við á. Mótastjórn áskilur sér rétt til að fylla í laus sæti með liðum úr deildarkeppninni gerist þess kostur.
+Nái mótastjórn ekki sambandi við lið samfleytt í tvær vikur, eftir að tímabil hefst, þá er liðið skráð úr deildinni og missir þátttökurétt á næsta tímabili (Sjá 4.10.1).
+Lið skráir sig úr móti
+Skrái lið sig úr móti í riðlakeppni skráist tap á allar spilaðar viðureignir sem og þær viðureignir sem eftir eru.
+Skrái lið sig úr móti í útsláttarkeppni skráist síðasta spilaða viðureign sem tap. Mótherji liðsins í þeirri viðureign fer áfram í leikjatré í stað sigurliðsins.
+Skrái lið sig úr móti í öðru sniði en er ofangreint, þá sker mótastjórn úr um hvaða áhrif það hefur á stigafjölda eða staðsetningu í móti.
+Skráning úr móti eftir að það er hafið getur talist refsiverð.
+
+Verðlaun
+Lið gefur út í byrjun móts hver skal taka við verðlaunum þegar þau eru í boði.
+Í deildum á vegum RLÍS skal móttakandi verðlauna sérstaklega tekinn fram í samningi. (Sjá 7.1)
+Mótastjórn RLÍS áskilur sér þann rétt að halda eftir eða svipta liði verðlaunum gerist keppandi eða lið sek um brot á reglum mótsins.
+
+
+Leikmenn
+Aðgangur sem leikmenn spila á
+Leikmenn þurfa að eiga sinn eigin aðgang til þess að spila á. Refsivert er þegar leikmaður spilar á öðrum aðgangi eða notar “smurf-aðgang”. 
+Ef leikmaður getur af einhverjum ástæðum ekki spilað á skráðum aðgangi sínum t.d. útaf banni þá er ekki leyfilegt að spila á öðrum aðgangi nema með sérstöku leyfi frá stjórninni.
+Nöfn leikmanna
+Stjórnendur geta vísað frá eða krafist breytinga á notandanafni við yfirferð skráningu m.a. ef að nöfn eru talin óeðlileg, óviðeigandi, móðgandi, niðrandi eða tengjast vörumerki.
+Leikmenn þurfa að nota sama nafn í leik og kemur fram í skráningu.
+Ekki má breyta um nafn á miðju tímabili nema undir sérstökum kringumstæðum með leyfi og samþykki mótastjórnar.
+
+
+Lögmæti leikmanna
+Til að vera lögmætur leikmaður í liði þarf hann að vera skráður í liðið á Toornament. Skráning á leikmanni þarf að vera rétt og innihalda eftirfarandi:
+notandanafn (e. player name)
+Discord ID
+platform
+platform ID
+netfang
+kennitala
+Skuli leikmaður ekki vera með íslenska kennitölu skal hafa samband við mótastjórn.
+Aldurstakmark í öllum mótum og deildum er 13 ára. Ef að leikmenn eru 12 ára eða yngri þurfa þeir að fá leyfi frá foreldri eða forráðamanni. Aðrar reglur gilda í úrvalsdeild. (Sjá 7.1.2)
+Lið
+Samningur
+Öll lið í úrvalsdeild þurfa að skrifa undir samning áður en tímabil hefst. Skrifi lið ekki undir samning áður en tímabil hefst teljast allir leikir þeirra sem forfeit fram að undirskrift samnings.
+Krafist er undirskriftar foreldris eða forráðamanns leikmanna í úrvalsdeild sem ekki hafa náð 18 ára aldri.
+Umráð liðs
+Eigandi liðs
+Við stofnun liðs er eignarréttur þess sjálfkrafa í höndum leikmanna. Eigi félag/fyrirtæki að búa yfir eignarétt liðs við stofnun þess, skal það tekið fram í sérstökum samningi sem RLÍS útvegar.
+Eigendaskipti geta átt sér stað á milli tímabila með sérstökum samningi sem stjórn RLÍS útvegar liðum.
+Áframhaldandi þátttökuréttur
+Ef að leikmenn eiga liðið þá verða að minnsta kosti tveir leikmenn frá fyrra tímabili að vera í leikmannahóp á nýju tímabili til þess að lið haldi sæti sínu í tiltekinni deild. 
+Ef félag/fyrirtæki með kennitölu á liðið þá heldur liðið sæti sínu í tiltekinni deild sama hversu margar breytingar eru gerðar á leikmannahóp.
+
+
+Leikmannahópur og félagaskipti
+Leikmaður má aðeins vera skráður í eitt lið í einu í sérhverju móti eða í deildarkeppnum. Það nær yfir allar deildir, svo leikmaður getur ekki skráð sig í lið í úrvalsdeild og á sama tíma verið í öðru liði í fyrstu eða annarri deild. Ranked deildirnar falla ekki undir þessa reglu. 
+Þjálfari má ekki spila með liði sem er í sömu deild og liðið sem hann þjálfar.
+Lið samanstendur af a.m.k. þremur leikmönnum. Leyfilegt er fyrir hvert lið að vera með einn skráðan varamann. Skrá skal varamann áður en félagaskiptagluggi lokar.
+Félagaskipti mega fara fram á milli tímabila og í félagaskiptaglugga. 
+Leikmenn geta sagt sig úr liði á meðan félagaskipti eru leyfð. Ekki er hægt að segja sig úr liði á meðan félagaskipti eru ekki leyfð. Hætti leikmaður að spila þannig að það hafi áhrif á möguleika liðs til að taka þátt í viðureignum gildir regla 4.10.1
+Öll félagaskipti skulu vera tilkynnt og samþykkt af mótastjórn RLÍS. Mótastjórn getur hafnað félagaskiptum uppfylli þau ekki skilyrði. Samskiptaaðilar liðs fá skilaboð þegar félagaskiptin hafa verið samþykkt. Tilkynna verður öll félagaskipti hér.
+Félagaskipti mega ekki eiga sér stað innan 24 tíma fyrir viðureign.
+Lið sem er í eigu félags/fyrirtækis getur framkvæmt eins margar breytingar og þeim sýnist á milli tímabila. Jafnframt mega slík lið framkvæma tvær breytingar í félagaskiptaglugga.
+Lið sem er í eigu leikmanna fá aðeins tvær breytingar samtals á milli tímabila og innan félagaskiptaglugga.
+Félagaskiptagluggi fyrir tímabil 6 opnar sama dag og deildir byrja og lokar kl 23:59 þriðjudaginn 21. mars fyrir úrvalsdeild, sunnudaginn 12. mars fyrir fyrstu og sunnudaginn 26. mars fyrir aðra deild.
+Lið sem komast í deild í gegnum undankeppni fá aðeins að gera ein félagaskipti þar til félagaskiptagluggi lokar.
+Leikmenn í almennum mótum hjá RLÍS geta ekki skipt um lið, né geta lið í almennum mótum hjá RLÍS bætt við sig nýjum leikmönnum á meðan móti stendur.
+Samskiptaaðili
+Í mótum og neðri deildum er samskiptaaðili sá sem skráir liðið inná Toornament. 
+Tekið skal fram í samningum úrvalsdeildarliða hver samskiptaaðili er fyrir hvert tímabil.
+Liðsstjórar og þjálfarar geta verið samskiptaaðilar.
+Liðsstjórar og þjálfarar
+Liði er heimilt að vera með liðsstjóra og/eða þjálfara. Ef að lið kýs að gera það þarf að tilkynna það til mótastjórnar.
+Siðareglur
+Agareglur
+Allir þátttakendur þurfa að sýna íþróttamannslega hegðun. Þátttakendur þurfa að bera virðingu gagnvart þátttakendum, áhorfendum og stjórnendum móta og deilda á vegum RLÍS. 
+Þátttakendum er óheimilt að taka þátt í hvers lags áreiti. Til áreitis telst m.a. mismunun af öllu tagi, niðurlægjandi orðafar, kynferðisleg áreitni, hótanir, líkamlegt/andlegt ofbeldi og kynþáttahatur. Listinn er ekki tæmandi og mun aganefnd dæma hvert atvik útaf fyrir sig.
+Þátttakendur skulu ekki aftengjast leik sem er í gangi af ástæðulausu áður en leikurinn hefur klárast.
+Þátttakendur skulu ávallt leggja sig allan fram þangað til leikurinn er búinn.
+Lið skal ekki gefast upp í leik áður en tíminn er búinn og boltinn snert jörðu.
+Þátttakendur mega ekki hakka tölvuleikinn eða breyta ætlaðri hegðun hans.
+Þátttakendur mega ekki nota nein hjálparforrit sem gefa þeim forskot í leiknum á einhvern hátt á meðan leik stendur. Til hjálparforrita sem veita forskot teljast t.d. overclock en ekki forrit á borð við BakkesMod.
+Notkun galla (e. glitch) í leiknum er stranglega bönnuð.
+Þátttakendur skulu tilkynna niðurstöður leikja eins fljótt og auðið er.
+Þátttakendur mega ekki leyfa öðrum að spila í sinn stað á sínum aðgangi.
+Þátttakendur mega ekki trufla starfsemi RLÍS eða skipulagningu deildarinnar á neinn hátt.
+Þátttakendur skulu ekki taka við neinum hlunnindum eða mútum gegn því að spila ósanngjarnt á einn eða annan hátt.
+Þátttakendur mega ekki veðja eða leggja fé undir neinn leik í þeirra tilheyrandi deild.
+Þátttakendur mega ekki vera undir áhrifum áfengis eða annara vímuefna á meðan keppni stendur, að undanskildum lyfseðilsskyldum lyfjum sem þátttakandi hefur fengið ávísað af lækni.
+Styrktaraðilar liða mega ekki vera tengdir, framleiðendur eða dreifingaraðilar klámfengis efnis, ólöglegra efna/drykkja.
+Þátttakendur mega ekki taka þátt í ólöglegum athæfum samkvæmt íslenskum lögum.
+
+
+Brot á reglum
+Aganefnd
+Aganefnd sér um að ákvarða refsingu fyrir brot á reglum hverju sinni, ásamt því að hún heldur utan um refsipunkta leikmanna og tilkynnir brot á viðeigandi Discord rás.
+Aganefnd skal vera skipuð fyrir hvert tímabil. Meðlimir aganefndar mega ekki vera þátttakendur í deild á tilteknu tímabili.
+Þátttakendur skulu vera samvinnufúsir þegar það kemur að rannsóknum grunaðra brota á reglum RLÍS. Spilarar skulu vera heiðarlegir og segja allann sannleikann þegar þeir gefa aganefnd RLÍS upplýsingar um grunuð brot á reglum. Verði þátttakandi uppvís að halda aftur upplýsingum, afvegaleiða rannsókn eða tortíma upplýsingum verður honum tafarlaust refsað.
+Verði þátttakendur eða áhorfendur varir við brot á reglum geta þeir tilkynnt brotið til stjórnar eða aganefndar RLÍS í einkaskilaboðum á Discord, modmail eða tölvupósti. 
+Telji einhver að stjórnandi hafi gerst brotlegur hefur viðkomandi heimild til að deila samskiptum með aganefnd RLÍS án þess að brjóta reglu um trúnað. (Sjá 10.2)
+Refsingar
+Fyrir hvert brot á reglum RLÍS eiga leikmenn í hættu á að fá 1-3 refsipunkta, en fjöldi punkta fer eftir alvarleika brotsins.  Refsipunktar fyrir brot fyrnast á sex mánuðum. 
+Fái leikmaður þrjá refsipunkta hlýtur hann refsingu (sjá 9.2.2) sem fer eftir alvarleika brota. Brjóti leikmaður reglur RLÍS með liði sínu eiga allir í liðinu hættu á að fá refsipunkta. Leikmaður getur gerst tímabundið brottrækur á meðan rannsókn á broti á sér stað ef um alvarlegt brot er að ræða.
+Lítilvægt brot - 1 punktur
+Mikilvægt brot - 2 punktar
+Alvarlegt brot - 3 punktar
+Aganefnd RLÍS  ákvarðar alvarleika brots sem framið er hverju sinni og í kjölfarið hversu marga punkta leikmaður fær. Dagsetning refsipunkta er miðuð við þann dag sem brot var framið.
+Einstaklingar sem hljóta punkta geta áfrýjað niðurstöðunni innan 14 daga frá broti haldi þeir að aganefnd hafi komist að rangri niðurstöðu.
+Fái leikmaður þrjá refsipunkta hlýtur hann einhverja af eftirtöldum refsingum (raðað eftir alvarleika).
+Endurspilun leiks.
+Skráð tap í leik.
+Skráð tap í viðureign.
+Skerðing verðlauna.
+Svipting verðlauna.
+Tímabundið leikbann í deildum RLÍS.
+Tímabundið bann frá mótum/deildum á vegum RLÍS.
+Eilíft bann frá mótum/deildum á vegum RLÍS.
+
+Beiti aganefnd RLÍS refsingum er viðkomandi þátttakanda eða liði heimilt að vísa málinu til áfrýjunarnefnd RÍSÍ. Refsing dettur ekki úr gildi á meðan áfrýjunarnefnd RÍSÍ tekur málið fyrir.
+Skilmálar
+Með því að taka þátt í mótum á vegum RLÍS samþykkir þátttakandi allar þær reglur sem skrifaðar eru í þessu skjali. Lið og leikmenn sem ekki fylgja reglunum geta átt von á því að vera vísað úr keppni.
+Samskipti leikmanna við stjórnendur eru trúnaðarmál og má ekki endurrita, afrita eða sýna á annan hátt óviðkomandi aðilum. Brot á þessum trúnaði geta verið refsiverð. Undantekning er gerð ef stjórnandi gerist brotlegur. (Sjá 9.1.5.)
+RLÍS ber ekki ábyrgð á skemmdum eða bilunum á búnaði leikmanna. 
+RLÍS getur frestað eða hætt við mót/deild vegna óviðráðanlegra aðstæðna. Skuli það gerast verður það tilkynnt á Discord.
+Stjórn RLÍS getur uppfært, bætt við eða breytt þessum reglum ef þörf er á hvenær sem er. Allar breytingar á reglum verða tilkynntar opinberlega. Þátttakandi samþykkir breytingar á reglum með áframhaldandi þátttöku sinni í deildinni eftir að breytingar hafa verið tilkynntar. 
+
+
+Birtingarákvæði
+Sjónvarpsréttur 
+RLÍS er heimilt að semja um sjónvarpsréttindi að öllum leikjum í mótum sem haldin eru á vegum þess. Allar greiðslur vegna þessa renna óskiptar til RLÍS.
+Streymisreglur
+Ekki er leyfilegt að streyma frá leikjum í mótum eða deildum á vegum RLÍS nema að fá leyfi fyrir því frá mótastjórn. Ath. að þátttakendur þurfa ekki að fá leyfi til að streyma frá sínu eigin sjónarhorni. 
+Stjórn
+Aðalstjórn
+	Andri Valur “Dingo” Guðjohnsen
+Ásgeir Emil “Ageir9” Ólason
+	Birkir “Cereal” Steinarsson
+	Kristinn “Kartofla” Halldórsson
+	Snorri Már “snorri gaming” Vagnsson
+
+Mótastjórn
+Umsjónarmenn móta/deilda
+	Andri Valur “Dingo” Guðjohnsen
+Ásgeir Emil “Ageir9” Ólason
+	Birkir “Cereal” Steinarsson
+	Kristinn “Kartofla” Halldórsson
+	Snorri Már “snorri gaming” Vagnsson
+Aganefnd
+Aganefnd tímabils 6 samanstendur af eftirfarandi meðlimum:
+Andri Valur “Dingo” Guðjohnsen
+Emelía “MSA” Grétarsdóttir
+Birkir “Cereal” Steinarsson
+
+
+Samskipti og aðstoð
+Allar aðstoðarbeiðnir sem tengjast mótum eða öðru tengdu RLÍS fara í gegnum mótastjórnina. 
+Aðal samskiptamiðilinn okkar er Discord (https://discord.gg/invite/tGBY9kn) en einnig er hægt að hafa samband við okkur á Facebook (https://www.facebook.com/RocketLeagueIceland).
+
+
